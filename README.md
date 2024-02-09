@@ -18,6 +18,8 @@ The live dashboard can be viewed at the following link:
 
 This is shown as a bar graph and depicts the prices in USD for property listings ranging from those that have just a single bedroom to those that have six bedrooms at max.
 
+![avg](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/665b310a0152368c2c5fb3ca08b8b23d0ee381e0/Resources/Avgprice.jpg)
+
 #### Insights
 
 The prices can be seen to steadily increase with the number of bedrooms. Larger properties with more bedrooms generally can accommodate more guests. Hosts often charge higher prices for properties that can house larger groups of people.
@@ -28,15 +30,19 @@ Properties with multiple bedrooms may cater to a different target audience, such
 
 This is represented with both a bar graph format as well a more visually appealing map visual.
 
+![zipcode](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/665b310a0152368c2c5fb3ca08b8b23d0ee381e0/Resources/Zipcodeprice.jpg)
+
 The map visual segments all of the property listings based on their zip codes. Hovering over any segment on the map will display the zip code of that particular locality as well as the average price of an Airbnb located within that vicinity.
 
 ### Revenue for the year
 
 This line chart shows the variation in the total price for all the available Airbnb listings as per the 'Calendar' table throughout 2016.
 
+![revenue](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/665b310a0152368c2c5fb3ca08b8b23d0ee381e0/Resources/revenue.jpg)
+
 #### Insight
 
-The prices saw a steady rise from the months 'January' to 'March' and again after 'November'. This could possibly be due to the general perception of favourable weather conditions for tourists coming to Seatle from January to March or due to a higher frequency of leisure activities or events occurring between these months leading to increased demands and thus higher prices.
+The prices saw a steady rise from the months 'January' to 'March' and again after 'November'. This could be due to the general perception of favourable weather conditions for tourists coming to Seatle from January to March or due to a higher frequency of leisure activities or events occurring between these months leading to increased demands and thus higher prices.
 
 Also, the period after November might coincide with winter vacations, Christmas and a general holiday season again leading to an increased demand and thus higher Airbnb prices overall.
 
@@ -44,11 +50,13 @@ Also, the period after November might coincide with winter vacations, Christmas 
 
 The distribution of the Airbnb listings ranging from a single bedroom up to six bedrooms are represented as a table within the dashboard.
 
+![bedroom](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/665b310a0152368c2c5fb3ca08b8b23d0ee381e0/Resources/bedno.jpg)
+
 #### Insights
 
 The properties with just a single bedroom are the greatest in number as shown by the table reaching close to 2000 listings in total while the total number of properties offering two to six bedrooms is approximately 1000 in total, far less than those that offer just a single bedroom.
 
-This implies that there might be a higher demand or preference for smaller accommodations with just a single bedroom within Seatle . It could also suggest that the market might be more oriented toward catering to individual travellers, couples, or small groups.
+This implies that there might be a higher demand or preference for smaller accommodations with just a single bedroom within Seatle. It could also suggest that the market might be more oriented toward catering to individual travellers, couples, or small groups.
 
 The data may also reflect the competitive landscape in the area. If there are more one-bedroom listings, hosts with larger properties may face less competition within their category.
 
@@ -62,13 +70,19 @@ The 'Calendar' table comprises 4 columns and about 1.05 million rows.
 
 It gives details about certain properties such as their unique ID (lisitng_id), the date on which it was listed on Airbnb, a flag to indicate whether it's still available or not and finally its price.
 
+![calendar](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/665b310a0152368c2c5fb3ca08b8b23d0ee381e0/Resources/calender1.jpg)
+
 The 'Listings' table is quite extensive comprising 3818 rows and about 92 columns.
 
 It details the unique ID, URL, description, zip code and a whole bunch of different attributes regarding a particular property.
 
+![listing](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/665b310a0152368c2c5fb3ca08b8b23d0ee381e0/Resources/calendar2.jpg)
+
 Finally, the 'Reviews' table consists of about 84,800 rows and 6 columns.
 
 As the name suggests, it provides details regarding a review given by a past occupant of a particular property. So, the table includes the unique ID of a particular property, the reviewer's ID, name as well as a description of the remark that they gave regarding the property.
+
+![review](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/665b310a0152368c2c5fb3ca08b8b23d0ee381e0/Resources/calendar3.jpg)
 
 
 ## The data analysis process
