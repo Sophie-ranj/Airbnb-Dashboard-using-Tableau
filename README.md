@@ -1,5 +1,5 @@
 
-# Seatle Airbnb Listings Dashboard
+# Seattle Airbnb Listings Dashboard
 
 This is a data cleaning and visualization project created entirely in Tableau from a Kaggle dataset about Airbnb listings in the Seatle area of the US from 2016
 
@@ -95,9 +95,9 @@ Finally, the cleaned dataset was observed using different visuals and a fully-fl
 
 ## Conclusion
 
-The dataset used for this project dates back to 2016 and thus might not provide an accurate representation of the Airbnb market trends within Seatle.
+The dataset used for this project dates back to 2016 and thus might not provide an accurate representation of the Airbnb market trends within Seattle.
 
-The dashboard can be updated to include data from more recent years to give a more detailed insight on how the market for Airbnb listings within Seatle has shifted within recent years owing to different economic factors as well the outbreak of COVID-19 in late 2019 and 2020.
+The dashboard can be updated to include data from more recent years to give a more detailed insight into how the market for Airbnb listings within Seattle has shifted within recent years owing to different economic factors as well as the outbreak of COVID-19 in late 2019 and 2020.
 
 
 
