@@ -1,7 +1,7 @@
 
 # Seattle Airbnb Listings Dashboard
 
-This is a data cleaning and visualization project created entirely in Tableau from a Kaggle dataset about Airbnb listings in the Seatle area of the US from 2016
+This is a data cleaning and visualization project created entirely in Tableau from a Kaggle dataset about Airbnb listings in the Seattle area of the US from 2016
 
 ![main](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/54a137391ae8729c60f2084bc467d5c78c99669f/Resources/main.jpg)
 
@@ -16,19 +16,19 @@ The live dashboard can be viewed at the following link:
 
 ### Average price of an Airbnb listing
 
-This is shown as a bar graph and depicts the prices in USD for property listings ranging from those that have just a single bedroom to those that have six bedrooms at max.
+This is shown as a bar graph and depicts the prices in USD for property listings ranging from those with just a single bedroom to those with six bedrooms at max.
 
 ![avg](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/665b310a0152368c2c5fb3ca08b8b23d0ee381e0/Resources/Avgprice.jpg)
 
 #### Insights
 
-The prices can be seen to steadily increase with the number of bedrooms. Larger properties with more bedrooms generally can accommodate more guests. Hosts often charge higher prices for properties that can house larger groups of people.
+The prices can be seen to increase with the number of bedrooms steadily. Larger properties with more bedrooms generally can accommodate more guests. Hosts often charge higher prices for properties that can house larger groups of people.
 
 Properties with multiple bedrooms may cater to a different target audience, such as families or larger groups of travellers. Hosts may set prices based on the willingness of these groups to pay more for a larger and more accommodating space as well as additional offered facilities.
 
 ### Prices by Zipcodes
 
-This is represented with both a bar graph format as well a more visually appealing map visual.
+This is represented with both a bar graph format and a more visually appealing map visual.
 
 ![zipcode](https://github.com/Sophie-ranj/Airbnb-Dashboard-using-Tableau/blob/665b310a0152368c2c5fb3ca08b8b23d0ee381e0/Resources/Zipcodeprice.jpg)
 
@@ -42,7 +42,7 @@ This line chart shows the variation in the total price for all the available Air
 
 #### Insight
 
-The prices saw a steady rise from the months 'January' to 'March' and again after 'November'. This could be due to the general perception of favourable weather conditions for tourists coming to Seatle from January to March or due to a higher frequency of leisure activities or events occurring between these months leading to increased demands and thus higher prices.
+The prices saw a steady rise from months 'January' to 'March' and again after 'November'. This could be due to the general perception of favourable weather conditions for tourists coming to Seattle from January to March or due to a higher frequency of leisure activities or events occurring between these months leading to increased demands and thus higher prices.
 
 Also, the period after November might coincide with winter vacations, Christmas and a general holiday season again leading to an increased demand and thus higher Airbnb prices overall.
 
@@ -56,7 +56,7 @@ The distribution of the Airbnb listings ranging from a single bedroom up to six 
 
 The properties with just a single bedroom are the greatest in number as shown by the table reaching close to 2000 listings in total while the total number of properties offering two to six bedrooms is approximately 1000 in total, far less than those that offer just a single bedroom.
 
-This implies that there might be a higher demand or preference for smaller accommodations with just a single bedroom within Seatle. It could also suggest that the market might be more oriented toward catering to individual travellers, couples, or small groups.
+This implies that there might be a higher demand or preference for smaller accommodations with just a single bedroom within Seattle. It could also suggest that the market might be more oriented toward catering to individual travellers, couples, or small groups.
 
 The data may also reflect the competitive landscape in the area. If there are more one-bedroom listings, hosts with larger properties may face less competition within their category.
 
